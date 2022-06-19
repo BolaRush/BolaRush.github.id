@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantora+One&family=Indie+Flower&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overlock+SC&family=Sulphur+Point:wght@700&display=swap');
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.sub-judul {
+    font-family: 'Sulphur Point', sans-serif;
+}
+
+/* Style Navbar */
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    margin-right: 100px;
+}
+
+.nav-item {
+    margin-right: 2rem;
+}
+
+.nav-link {
+    font-family: 'Indie Flower', cursive;
+}
+
+#dev {
+    scroll-margin-top: 5rem;
+}
+
+#lang {
+    scroll-margin-top: 5rem;
+}
+
+#hti {
+    scroll-margin-top: 5rem;
+}
+
+#download {
+    scroll-margin-top: 5rem;
+}
+
+/* Deskripsi Game */
+.jumbotron {
+    padding-top: 2rem;
+}
+
+.lead {
+    margin: 5rem 8rem;
+}
+
+/* Developer */
+.dev {
+    background-color: #0099ff;
+}
+
+.nama {
+    margin-top: 3rem;
+    font-family: 'Overlock SC', cursive;
+}
+
+/* Lang & Tools */
+.ikon {
+    width: 5rem;
+    height: 5rem;
+    margin: 1rem 2rem;
+}
+
+.title-language {
+    margin-bottom: 5rem;
+}
+
+.bhs-apk {
+    padding-bottom: 5rem;
+}
+
+/* How to Install */
+.hti {
+    background-color: #a2d9ff;
+}
+
+ol li {
+    margin-bottom: 2rem;
+}
+
+.tutor {
+    font-size: 1.5rem;
+}
+
+.title-hti {
+    margin-bottom: 3rem;
+}
+
+/* Download */
+.download {
+    padding-bottom: 5rem;
+}
+
+.button {
+    margin: 10rem;
+}
+
+.btn-secondary {
+    background-color: rgb(8, 184, 8);
+}
+
+.btn-secondary:hover {
+    background-color: rgb(6, 136, 6);
+}
+
+/* Footer */
+footer p {
+    margin-top: 0.5rem;
+}
+
+/* Login */
+.form-login {
+    margin-top: 5rem;
+}
+
+.size-dwnld {
+    color: black;
+}
